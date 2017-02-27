@@ -1,0 +1,7 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\CheckForPlayVolleyball\bin\Debug\CheckForPlayVolleyball.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\4.Complex-Conditions\ComplexConditions\CheckForPlayVolleyball\bin\Debug\CheckForPlayVolleyball.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\4.Complex-Conditions\ComplexConditions\CheckForPlayVolleyball\bin\Debug\CheckForPlayVolleyball.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\4.Complex-Conditions\ComplexConditions\CheckForPlayVolleyball\bin\Debug\CheckForPlayVolleyball.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\4.Complex-Conditions\ComplexConditions\CheckForPlayVolleyball\obj\Debug\CheckForPlayVolleyball.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\4.Complex-Conditions\ComplexConditions\CheckForPlayVolleyball\obj\Debug\CheckForPlayVolleyball.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\4.Complex-Conditions\ComplexConditions\CheckForPlayVolleyball\obj\Debug\CheckForPlayVolleyball.pdb

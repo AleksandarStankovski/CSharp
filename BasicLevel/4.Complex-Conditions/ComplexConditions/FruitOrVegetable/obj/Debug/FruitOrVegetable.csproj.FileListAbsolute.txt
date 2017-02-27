@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

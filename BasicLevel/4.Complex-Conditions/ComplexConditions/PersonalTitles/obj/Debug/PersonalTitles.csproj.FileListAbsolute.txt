@@ -1,0 +1,9 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\4.Complex-Conditions\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\4.Complex-Conditions\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\4.Complex-Conditions\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.pdb

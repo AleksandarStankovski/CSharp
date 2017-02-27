@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\Cinema\bin\Debug\Cinema.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\Cinema\bin\Debug\Cinema.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\Cinema\bin\Debug\Cinema.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\Cinema\obj\Debug\Cinema.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\Cinema\obj\Debug\Cinema.pdb

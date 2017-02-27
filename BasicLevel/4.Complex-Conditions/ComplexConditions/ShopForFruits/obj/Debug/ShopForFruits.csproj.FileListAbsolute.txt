@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\ShopForFruits\bin\Debug\ShopForFruits.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\ShopForFruits\bin\Debug\ShopForFruits.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\ShopForFruits\bin\Debug\ShopForFruits.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\ShopForFruits\obj\Debug\ShopForFruits.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\ShopForFruits\obj\Debug\ShopForFruits.pdb

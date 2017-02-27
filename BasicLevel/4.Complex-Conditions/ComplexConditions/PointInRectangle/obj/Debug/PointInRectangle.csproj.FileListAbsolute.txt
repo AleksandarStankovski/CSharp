@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.pdb

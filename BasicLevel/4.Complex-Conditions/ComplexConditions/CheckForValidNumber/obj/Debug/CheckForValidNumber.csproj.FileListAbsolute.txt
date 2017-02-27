@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\CheckForValidNumber\bin\Debug\CheckForValidNumber.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\CheckForValidNumber\bin\Debug\CheckForValidNumber.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\CheckForValidNumber\bin\Debug\CheckForValidNumber.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\CheckForValidNumber\obj\Debug\CheckForValidNumber.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\CheckForValidNumber\obj\Debug\CheckForValidNumber.pdb

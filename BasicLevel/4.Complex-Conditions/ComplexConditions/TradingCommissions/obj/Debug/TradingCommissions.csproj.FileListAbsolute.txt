@@ -1,0 +1,6 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\TradingCommissions\bin\Debug\TradingCommissions.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\TradingCommissions\bin\Debug\TradingCommissions.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\TradingCommissions\bin\Debug\TradingCommissions.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\TradingCommissions\obj\Debug\TradingCommissions.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\TradingCommissions\obj\Debug\TradingCommissions.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ComplexConditions\TradingCommissions\obj\Debug\TradingCommissions.pdb
