@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\PrimeNumber\obj\Debug\PrimeNumber.pdb

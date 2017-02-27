@@ -1,0 +1,6 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\LoopByStep3\bin\Debug\LoopByStep3.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\LoopByStep3\bin\Debug\LoopByStep3.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\LoopByStep3\bin\Debug\LoopByStep3.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.pdb

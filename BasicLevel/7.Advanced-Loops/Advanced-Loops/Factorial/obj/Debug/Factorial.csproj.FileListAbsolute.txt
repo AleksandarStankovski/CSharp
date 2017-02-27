@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\Factorial\bin\Debug\Factorial.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\Factorial\bin\Debug\Factorial.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\Factorial\bin\Debug\Factorial.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\Factorial\obj\Debug\Factorial.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\Factorial\obj\Debug\Factorial.pdb

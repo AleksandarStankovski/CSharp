@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\RowNumbers\bin\Debug\RowNumbers.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\RowNumbers\bin\Debug\RowNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\RowNumbers\bin\Debug\RowNumbers.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\RowNumbers\obj\Debug\RowNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\RowNumbers\obj\Debug\RowNumbers.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\OddPower2\bin\Debug\OddPower2.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\OddPower2\bin\Debug\OddPower2.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\OddPower2\bin\Debug\OddPower2.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\OddPower2\obj\Debug\OddPower2.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\Advanced-Loops\OddPower2\obj\Debug\OddPower2.pdb
