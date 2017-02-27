@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.pdb

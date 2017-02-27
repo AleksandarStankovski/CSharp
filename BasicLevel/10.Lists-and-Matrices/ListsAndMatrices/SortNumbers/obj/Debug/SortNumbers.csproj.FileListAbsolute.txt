@@ -1,0 +1,6 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SortNumbers\bin\Debug\SortNumbers.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SortNumbers\bin\Debug\SortNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SortNumbers\bin\Debug\SortNumbers.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SortNumbers\obj\Debug\SortNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\SortNumbers\obj\Debug\SortNumbers.pdb

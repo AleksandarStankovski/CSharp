@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\BuildMatrixOfLetters\bin\Debug\BuildMatrixOfLetters.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\BuildMatrixOfLetters\bin\Debug\BuildMatrixOfLetters.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\BuildMatrixOfLetters\bin\Debug\BuildMatrixOfLetters.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\BuildMatrixOfLetters\obj\Debug\BuildMatrixOfLetters.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\BuildMatrixOfLetters\obj\Debug\BuildMatrixOfLetters.pdb

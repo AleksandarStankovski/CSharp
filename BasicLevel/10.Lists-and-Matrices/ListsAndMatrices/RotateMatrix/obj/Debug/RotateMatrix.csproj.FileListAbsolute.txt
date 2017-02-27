@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\RotateMatrix\bin\Debug\RotateMatrix.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\RotateMatrix\bin\Debug\RotateMatrix.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\RotateMatrix\bin\Debug\RotateMatrix.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\RotateMatrix\obj\Debug\RotateMatrix.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\10.Lists-and-Matrices\ListsAndMatrices\RotateMatrix\obj\Debug\RotateMatrix.pdb
