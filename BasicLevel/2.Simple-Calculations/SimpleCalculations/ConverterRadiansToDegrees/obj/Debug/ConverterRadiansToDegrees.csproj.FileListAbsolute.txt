@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterRadiansToDegrees\bin\Debug\ConverterRadiansToDegrees.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterRadiansToDegrees\bin\Debug\ConverterRadiansToDegrees.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterRadiansToDegrees\bin\Debug\ConverterRadiansToDegrees.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterRadiansToDegrees\obj\Debug\ConverterRadiansToDegrees.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterRadiansToDegrees\obj\Debug\ConverterRadiansToDegrees.pdb

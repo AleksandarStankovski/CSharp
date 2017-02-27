@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\SquareArea\bin\Debug\SquareArea.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\SquareArea\bin\Debug\SquareArea.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\SquareArea\bin\Debug\SquareArea.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\SquareArea\obj\Debug\SquareArea.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\SquareArea\obj\Debug\SquareArea.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\BGNtoEURConverter\bin\Debug\BGNtoEURConverter.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\BGNtoEURConverter\bin\Debug\BGNtoEURConverter.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\BGNtoEURConverter\bin\Debug\BGNtoEURConverter.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.Form1.resources
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.Properties.Resources.resources
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.csproj.GenerateResource.Cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.pdb

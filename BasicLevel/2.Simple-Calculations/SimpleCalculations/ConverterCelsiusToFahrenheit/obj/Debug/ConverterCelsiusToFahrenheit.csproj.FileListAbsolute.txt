@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterCelsiusToFahrenheit\bin\Debug\ConverterCelsiusToFahrenheit.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterCelsiusToFahrenheit\bin\Debug\ConverterCelsiusToFahrenheit.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterCelsiusToFahrenheit\bin\Debug\ConverterCelsiusToFahrenheit.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterCelsiusToFahrenheit\obj\Debug\ConverterCelsiusToFahrenheit.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterCelsiusToFahrenheit\obj\Debug\ConverterCelsiusToFahrenheit.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

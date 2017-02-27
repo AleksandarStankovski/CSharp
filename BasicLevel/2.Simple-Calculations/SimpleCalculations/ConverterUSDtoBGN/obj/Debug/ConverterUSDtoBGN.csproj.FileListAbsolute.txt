@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterUSDtoBGN\bin\Debug\ConverterUSDtoBGN.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterUSDtoBGN\bin\Debug\ConverterUSDtoBGN.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterUSDtoBGN\bin\Debug\ConverterUSDtoBGN.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterUSDtoBGN\obj\Debug\ConverterUSDtoBGN.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\ConverterUSDtoBGN\obj\Debug\ConverterUSDtoBGN.pdb

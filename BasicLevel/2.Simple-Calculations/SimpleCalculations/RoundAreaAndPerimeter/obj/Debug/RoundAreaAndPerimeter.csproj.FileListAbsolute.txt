@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\RoundAreaAndPerimeter\bin\Debug\RoundAreaAndPerimeter.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\RoundAreaAndPerimeter\bin\Debug\RoundAreaAndPerimeter.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\RoundAreaAndPerimeter\bin\Debug\RoundAreaAndPerimeter.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\RoundAreaAndPerimeter\obj\Debug\RoundAreaAndPerimeter.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\SimpleCalculationsExercises\RoundAreaAndPerimeter\obj\Debug\RoundAreaAndPerimeter.pdb
