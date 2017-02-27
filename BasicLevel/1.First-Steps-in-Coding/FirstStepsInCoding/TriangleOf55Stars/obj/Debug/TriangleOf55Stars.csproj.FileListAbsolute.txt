@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

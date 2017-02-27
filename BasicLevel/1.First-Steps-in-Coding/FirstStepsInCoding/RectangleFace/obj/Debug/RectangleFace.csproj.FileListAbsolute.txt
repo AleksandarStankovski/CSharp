@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\RectangleFace\bin\Debug\RectangleFace.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\RectangleFace\bin\Debug\RectangleFace.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\RectangleFace\bin\Debug\RectangleFace.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\RectangleFace\obj\Debug\RectangleFace.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\RectangleFace\obj\Debug\RectangleFace.pdb

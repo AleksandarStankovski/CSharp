@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Nums1To20\bin\Debug\Nums1To20.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Nums1To20\bin\Debug\Nums1To20.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Nums1To20\bin\Debug\Nums1To20.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Nums1To20\obj\Debug\Nums1To20.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Nums1To20\obj\Debug\Nums1To20.pdb

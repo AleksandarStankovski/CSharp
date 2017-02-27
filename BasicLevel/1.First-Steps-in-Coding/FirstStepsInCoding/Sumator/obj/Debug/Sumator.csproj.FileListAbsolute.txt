@@ -1,0 +1,9 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Sumator\bin\Debug\Sumator.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Sumator\bin\Debug\Sumator.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Sumator\bin\Debug\Sumator.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Sumator\obj\Debug\Sumator.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Sumator\obj\Debug\Sumator.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Sumator\obj\Debug\Sumator.FormCalculate.resources

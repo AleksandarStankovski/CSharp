@@ -1,0 +1,9 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\FirstStepsInCoding\Expression\bin\Debug\Expression.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\FirstStepsInCoding\Expression\bin\Debug\Expression.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\FirstStepsInCoding\Expression\bin\Debug\Expression.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\FirstStepsInCoding\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\FirstStepsInCoding\Expression\obj\Debug\Expression.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\2.Simple-Calculations-Exercises\FirstStepsInCoding\Expression\obj\Debug\Expression.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Expression\bin\Debug\Expression.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Expression\obj\Debug\Expression.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\1.First-Steps-in-Coding\FirstStepsInCoding\Expression\obj\Debug\Expression.pdb
