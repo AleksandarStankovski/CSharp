@@ -1,0 +1,8 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\PrintLatinLetters\bin\Debug\PrintLatinLetters.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\PrintLatinLetters\bin\Debug\PrintLatinLetters.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\PrintLatinLetters\bin\Debug\PrintLatinLetters.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\PrintLatinLetters\obj\Debug\PrintLatinLetters.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\PrintLatinLetters\obj\Debug\PrintLatinLetters.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\PrintLatinLetters\bin\Debug\PrintLatinLetters.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\PrintLatinLetters\obj\Debug\PrintLatinLetters.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\PrintLatinLetters\obj\Debug\PrintLatinLetters.pdb

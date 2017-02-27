@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\OddOrEven\bin\Debug\OddOrEven.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\OddOrEven\obj\Debug\OddOrEven.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\OddOrEven\obj\Debug\OddOrEven.pdb

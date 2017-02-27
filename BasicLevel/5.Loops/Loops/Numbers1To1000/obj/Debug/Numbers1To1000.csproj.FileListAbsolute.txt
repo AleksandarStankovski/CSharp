@@ -1,0 +1,8 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\Numbers1To1000\bin\Debug\Numbers1To1000.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\Numbers1To1000\bin\Debug\Numbers1To1000.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\Numbers1To1000\bin\Debug\Numbers1To1000.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\Numbers1To1000\obj\Debug\Numbers1To1000.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\Loops\Numbers1To1000\obj\Debug\Numbers1To1000.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\Numbers1To1000\bin\Debug\Numbers1To1000.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\Numbers1To1000\obj\Debug\Numbers1To1000.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\Numbers1To1000\obj\Debug\Numbers1To1000.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\bin\Debug\TurtleGraphics.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\bin\Debug\Nakov.TurtleGraphics.dll
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.FormTurtleGraphics.resources
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.Properties.Resources.resources
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.GenerateResource.Cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csprojResolveAssemblyReference.cache

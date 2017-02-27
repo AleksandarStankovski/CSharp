@@ -1,0 +1,6 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\SumVowelsLetters\bin\Debug\SumVowelsLetters.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\SumVowelsLetters\bin\Debug\SumVowelsLetters.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\SumVowelsLetters\bin\Debug\SumVowelsLetters.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\SumVowelsLetters\obj\Debug\SumVowelsLetters.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\SumVowelsLetters\obj\Debug\SumVowelsLetters.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\5.Loops\Loops\SumVowelsLetters\obj\Debug\SumVowelsLetters.pdb
