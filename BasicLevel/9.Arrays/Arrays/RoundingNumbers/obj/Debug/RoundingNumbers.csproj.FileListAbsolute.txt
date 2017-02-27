@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\ReverseArray\bin\Debug\ReverseArray.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\ReverseArray\bin\Debug\ReverseArray.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\ReverseArray\bin\Debug\ReverseArray.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\ReverseArray\obj\Debug\ReverseArray.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\ReverseArray\obj\Debug\ReverseArray.pdb

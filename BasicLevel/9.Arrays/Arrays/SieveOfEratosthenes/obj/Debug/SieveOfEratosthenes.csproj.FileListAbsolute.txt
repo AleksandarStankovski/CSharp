@@ -1,0 +1,6 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

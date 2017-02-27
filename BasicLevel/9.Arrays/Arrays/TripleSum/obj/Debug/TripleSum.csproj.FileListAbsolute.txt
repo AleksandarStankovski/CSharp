@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\TripleSum\bin\Debug\TripleSum.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\TripleSum\bin\Debug\TripleSum.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\TripleSum\bin\Debug\TripleSum.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\TripleSum\obj\Debug\TripleSum.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\TripleSum\obj\Debug\TripleSum.pdb

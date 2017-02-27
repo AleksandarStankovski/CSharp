@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SumMinMaxFirstLastAverage\obj\Debug\SumMinMaxFirstLastAverage.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\9.Arrays\Arrays\SumMinMaxFirstLastAverage\obj\Debug\SumMinMaxFirstLastAverage.pdb
