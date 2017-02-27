@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\PrintGrade\bin\Debug\PrintGrade.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\PrintGrade\bin\Debug\PrintGrade.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\PrintGrade\bin\Debug\PrintGrade.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\PrintGrade\obj\Debug\PrintGrade.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\PrintGrade\obj\Debug\PrintGrade.pdb

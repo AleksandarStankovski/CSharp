@@ -1,0 +1,8 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\OddOrEvenNumber\bin\Debug\OddOrEvenNumber.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\OddOrEvenNumber\bin\Debug\OddOrEvenNumber.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\OddOrEvenNumber\bin\Debug\OddOrEvenNumber.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\OddOrEvenNumber\bin\Debug\OddOrEvenNumber.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.pdb

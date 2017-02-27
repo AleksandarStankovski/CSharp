@@ -1,0 +1,9 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.FormConverter.resources
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

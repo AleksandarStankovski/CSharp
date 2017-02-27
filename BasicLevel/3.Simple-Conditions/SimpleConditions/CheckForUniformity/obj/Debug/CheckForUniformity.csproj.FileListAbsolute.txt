@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CheckForUniformity\bin\Debug\CheckForUniformity.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CheckForUniformity\bin\Debug\CheckForUniformity.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CheckForUniformity\bin\Debug\CheckForUniformity.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CheckForUniformity\obj\Debug\CheckForUniformity.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\CheckForUniformity\obj\Debug\CheckForUniformity.pdb

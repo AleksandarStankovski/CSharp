@@ -1,0 +1,6 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ConvertMeasuringUnits\bin\Debug\ConvertMeasuringUnits.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ConvertMeasuringUnits\bin\Debug\ConvertMeasuringUnits.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ConvertMeasuringUnits\bin\Debug\ConvertMeasuringUnits.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ConvertMeasuringUnits\obj\Debug\ConvertMeasuringUnits.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ConvertMeasuringUnits\obj\Debug\ConvertMeasuringUnits.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ConvertMeasuringUnits\obj\Debug\ConvertMeasuringUnits.pdb

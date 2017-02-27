@@ -1,0 +1,9 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\ExcellentResult\bin\Debug\ExcellentResult.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\ExcellentResult\bin\Debug\ExcellentResult.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\ExcellentResult\obj\Debug\ExcellentResult.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\ExcellentResult\obj\Debug\ExcellentResult.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\SimpleConditions\ExcellentResult\obj\Debug\ExcellentResult.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ExcellentResult\obj\Debug\ExcellentResult.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\ExcellentResult\obj\Debug\ExcellentResult.pdb

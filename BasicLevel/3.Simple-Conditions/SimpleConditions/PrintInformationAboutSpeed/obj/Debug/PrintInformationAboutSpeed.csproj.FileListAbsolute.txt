@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\PrintInformationAboutSpeed\bin\Debug\PrintInformationAboutSpeed.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\PrintInformationAboutSpeed\bin\Debug\PrintInformationAboutSpeed.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\PrintInformationAboutSpeed\bin\Debug\PrintInformationAboutSpeed.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\PrintInformationAboutSpeed\obj\Debug\PrintInformationAboutSpeed.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\3.Simple-Conditions\SimpleConditions\PrintInformationAboutSpeed\obj\Debug\PrintInformationAboutSpeed.pdb
