@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\RectangleNxN\bin\Debug\RectangleNxN.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\RectangleNxN\bin\Debug\RectangleNxN.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\RectangleNxN\bin\Debug\RectangleNxN.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\RectangleNxN\obj\Debug\RectangleNxN.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\RectangleNxN\obj\Debug\RectangleNxN.pdb

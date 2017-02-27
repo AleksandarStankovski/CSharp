@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\House\bin\Debug\House.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\House\bin\Debug\House.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\House\bin\Debug\House.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\House\obj\Debug\House.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\House\obj\Debug\House.pdb

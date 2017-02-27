@@ -1,0 +1,6 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\Sunglasses\bin\Debug\Sunglasses.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\Sunglasses\obj\Debug\Sunglasses.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\Sunglasses\obj\Debug\Sunglasses.pdb

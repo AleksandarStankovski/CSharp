@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\ChristmasTree\bin\Debug\ChristmasTree.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\ChristmasTree\bin\Debug\ChristmasTree.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\ChristmasTree\obj\Debug\ChristmasTree.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\ChristmasTree\obj\Debug\ChristmasTree.pdb

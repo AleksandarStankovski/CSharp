@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\6.Drawing-with-Loops\DrawingWthLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb
