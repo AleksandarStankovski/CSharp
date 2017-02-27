@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SumOfRealNumbers\bin\Debug\SumOfRealNumbers.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SumOfRealNumbers\bin\Debug\SumOfRealNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SumOfRealNumbers\bin\Debug\SumOfRealNumbers.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SumOfRealNumbers\obj\Debug\SumOfRealNumbers.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SumOfRealNumbers\obj\Debug\SumOfRealNumbers.pdb

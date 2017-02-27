@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CircleRadius\bin\Debug\CircleRadius.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CircleRadius\bin\Debug\CircleRadius.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CircleRadius\bin\Debug\CircleRadius.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CircleRadius\obj\Debug\CircleRadius.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CircleRadius\obj\Debug\CircleRadius.pdb

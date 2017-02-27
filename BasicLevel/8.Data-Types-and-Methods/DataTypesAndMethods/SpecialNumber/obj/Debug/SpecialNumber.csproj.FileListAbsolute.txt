@@ -1,0 +1,6 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SpecialNumber\bin\Debug\SpecialNumber.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SpecialNumber\bin\Debug\SpecialNumber.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SpecialNumber\bin\Debug\SpecialNumber.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SpecialNumber\obj\Debug\SpecialNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SpecialNumber\obj\Debug\SpecialNumber.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\SpecialNumber\obj\Debug\SpecialNumber.pdb

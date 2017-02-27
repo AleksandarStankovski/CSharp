@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

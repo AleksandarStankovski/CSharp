@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\AnimalType\obj\Debug\AnimalType.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\AnimalType\obj\Debug\AnimalType.pdb

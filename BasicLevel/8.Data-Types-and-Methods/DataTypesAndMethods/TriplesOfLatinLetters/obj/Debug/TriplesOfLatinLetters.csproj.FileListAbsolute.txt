@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\DrawFilledSquare\bin\Debug\DrawFilledSquare.exe.config
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\DrawFilledSquare\bin\Debug\DrawFilledSquare.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\DrawFilledSquare\bin\Debug\DrawFilledSquare.pdb
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\DrawFilledSquare\obj\Debug\DrawFilledSquare.exe
+D:\SoftUni\BasicLevel\Programming Basics - january 2016\8.Data-Types-and-Methods\DataTypesAndMethods\DrawFilledSquare\obj\Debug\DrawFilledSquare.pdb
